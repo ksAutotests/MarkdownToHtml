@@ -30,7 +30,7 @@ primary_tag: tutorial:product/sapHana
 ![Image](autotest.png)
 
 
-[Primer] [id]:
+[Primer][id]:
 
 [id]: http://tut.by
 
