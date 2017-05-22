@@ -30,11 +30,11 @@ primary_tag: tutorial:product/sapHana
 ![Image](autotest.png)
 
 
-[Primer][id]:
+[Primer][id]
 
-[id]: http://tut.by
+[id]: https://tut.by
 
-<http://tut.by>
+<https://tut.by>
 
 <address@example.com>
 
