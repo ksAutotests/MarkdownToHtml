@@ -54,12 +54,14 @@ Content in the first column | Content in the second column
 >### test text
 >This is a note
 
+***
 
 >### Caution
 >test text
 >>### Caution
 >>This is a Caution. 
 
+***
 
 >### Warning
 >test text
@@ -68,3 +70,4 @@ Content in the first column | Content in the second column
 >>>>### Warning
 >>>>This is a Warning
 
+***
