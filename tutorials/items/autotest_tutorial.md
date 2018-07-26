@@ -1,7 +1,7 @@
 ---
 title: autotest_tutorial
 description: a_tutorial description
-tags: [tutorial:product/sapHana]
+tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 experience: tutorial:experience/beginner
 time: 600
